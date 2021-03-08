@@ -1,7 +1,7 @@
 # GoDaddyDNSSync
 Small service application to keep a GoDaddy domain sync'd to a dynamic DNS. This will only update A-records. 
 
-Requires (.NET 5)[https://dotnet.microsoft.com/download/dotnet/5.0] Runtime
+Requires [.NET 5 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 How to use:
 1. Download the application and save it to a directory on a Windows server or an always-on workstation. 
