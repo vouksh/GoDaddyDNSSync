@@ -9,6 +9,6 @@ How to use:
 3. Modify the appsettings.json file with your domain name, key, and secret. 
 4. Run InstallAsService.bat as an administrator. 
 
-If you wish to exclude certain A-records, add them as a comma-seperated list in the appsettings.json file. 
+If you wish to exclude certain A-records, add them as a comma-separated list in the appsettings.json file. 
 
 Currently only supports 1 domain per service worker.
